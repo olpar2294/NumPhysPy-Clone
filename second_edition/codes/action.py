@@ -3,7 +3,7 @@
 
 from multi_newton import multi_newton
 import numpy as np
-
+#Trivial modification to the code
 def params():
     nvar = 99; m = 1.
     xini, xfin = 2., 0.
